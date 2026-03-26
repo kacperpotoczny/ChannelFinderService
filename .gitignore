@@ -23,7 +23,7 @@ spring-shell.log
 
 ### Documentation ###
 **/site/sphinx/build/*
-/docs2s/
+docs2s/
 
 ### Docker ###
 *compose*.yml
